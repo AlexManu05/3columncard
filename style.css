@@ -58,7 +58,7 @@ overflow: hidden;
 background-color: var(--light-gray-bg-h-but);
 padding: 10px 20px;
 margin-top: 60px;
-border: 0;
+border: 1px solid transparent;
 border-radius: 30px;
 display: block;                        /* to make the button text transparent*/
 mix-blend-mode: screen;     
