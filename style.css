@@ -46,7 +46,7 @@ overflow: hidden;
 .box h2{
   color: var(--light-gray-bg-h-but);
  font-family: 'Big Shoulders Display', cursive; 
- font-size: 30px;
+ font-size: 50px;
  margin: 20px 0 ;
 }
 .box p{
