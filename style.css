@@ -57,7 +57,7 @@ overflow: hidden;
 .box button{
 background-color: var(--light-gray-bg-h-but);
 padding: 10px 20px;
-margin-top: 60px;
+margin-top: 80px;
 border: 1px solid transparent;
 border-radius: 30px;
 display: block;                        /* to make the button text transparent*/
